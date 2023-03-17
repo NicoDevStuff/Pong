@@ -1,1 +1,1 @@
-sudo pacman -S raylib
+sudo pacman -S raylib premake
